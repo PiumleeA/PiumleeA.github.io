@@ -1,3 +1,13 @@
+<div align="center">
+  <h3><b><a href="#about-me">About Me</a> | 
+  <a href="#educational-qualifications">Education</a> | 
+  <a href="#work-experience">Experience</a> | 
+  <a href="#skills">Skills</a> | 
+  <a href="#hobbies">Hobbies</a> | 
+  <a href="#contact--resume">Contact</a></b></h3>
+</div>
+<hr>
+
 # My e-Portfolio
 **Name:** [Gam Hewage Piumlee Lehansa Abeywardhana]
 
