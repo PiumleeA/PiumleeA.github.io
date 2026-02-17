@@ -30,5 +30,5 @@
 * Hobby 2
 
 ## Contact & Resume
-* **Email:** [Your Email Address]
+* **Email:** [hs25510455@my.sliit.lk]
 * **Resume:** [Download my Resume](resume.pdf)
