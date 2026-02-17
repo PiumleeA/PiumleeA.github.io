@@ -18,21 +18,16 @@ I am a dedicated undergraduate student currently pursuing a BSc (Hons) in Biotec
 ## Work Experience
 * [Sales Assistant], [Boots, Wembley, UK] (2023)
 * [Nursery Assistant], [Ministeps nursery, UK] (2024)
-
+  
 ## Skills
 **Lab Skills:**
-
-![Microscopy](https://img.shields.io/badge/Skill-Microscopy-green?style=for-the-badge)
-
-![PCR](https://img.shields.io/badge/Skill-PCR-blue?style=for-the-badge)
-
-![Data_Analysis](https://img.shields.io/badge/Skill-Data_Analysis-orange?style=for-the-badge)
+<img src="https://img.shields.io/badge/Skill-Microscopy-green" height="50" />
+<img src="https://img.shields.io/badge/Skill-PCR-blue" height="50" />
+<img src="https://img.shields.io/badge/Skill-Data_Analysis-orange" height="50" />
 
 **Tech Skills:**
-
-![Office](https://img.shields.io/badge/Tools-Microsoft_Office-red?style=for-the-badge)
-
-![GitHub](https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge)
+<img src="https://img.shields.io/badge/Tools-Microsoft_Office-red" height="50" />
+<img src="https://img.shields.io/badge/Tools-GitHub-black" height="50" />
 
 ## Skills
 * Laboratory Safety & Techniques
