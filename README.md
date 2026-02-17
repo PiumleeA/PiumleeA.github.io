@@ -16,7 +16,7 @@
 <img src="photo.jpg" alt="Profile Photo" width="200" style="border-radius: 50%;">
 
 ## About Me
-I am a dedicated undergraduate student currently pursuing a BSc (Hons) in Biotechnology. Driven by a curiosity for the molecular workings of life, I am focused on building a strong foundation in laboratory techniques and research methodologies.I am currently learning about core subjects in biotechnology such as microbiology, biochemistry and ecology. I am passionate about applying scientific knowledge to solve real-world problems and am eager to gain practical experience in the industry to further develop my professional skills
+I am a motivated Biotechnology undergraduate with a passion for discovery and experimentation. My studies are centered around the core pillars of Life Sciences, including Microbiology and Chemistry, where I explore the chemical basis of biological systems. A significant part of my training takes place in the laboratory, where I am honing my skills in conducting complex experiments, analyzing results, and maintaining strict safety protocols. Complementing my wet-lab expertise, I am developing proficiency in Information Technology to enhance my ability to document research, analyze data, and present scientific findings effectively.
 
 ## Educational Qualifications
 * **Higher Education:**
@@ -46,8 +46,9 @@ I am a dedicated undergraduate student currently pursuing a BSc (Hons) in Biotec
 
 ## Hobbies
 * I am a film and music enthusiast. I enjoy analyzing storytelling in movies and exploring         diverse musical genres. 
-* I enjoy traveling to new places to experience different cultures and environments.
+* I enjoy traveling to new places to experience different cultures and environments. 
+* I enjoy spending time outside in nature doing outdoor activites such as hiking and swimming in the beach. 
 
 ## Contact & Resume
-* **Email:** [hs25510455@my.sliit.lk]
+* **Email:** hs25510455@my.sliit.lk
 * **Resume:** [Download my Resume](resume.pdf)
