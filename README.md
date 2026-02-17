@@ -21,6 +21,7 @@ I am a dedicated undergraduate student currently pursuing a BSc (Hons) in Biotec
   
 ## Skills
 **Lab Skills:**
+
 ![Microscopy](https://img.shields.io/badge/Skill-Microscopy-blue?style=for-the-badge)
 
 ![PCR](https://img.shields.io/badge/Skill-PCR-blue?style=for-the-badge)
@@ -28,6 +29,7 @@ I am a dedicated undergraduate student currently pursuing a BSc (Hons) in Biotec
 ![Data_Analysis](https://img.shields.io/badge/Skill-Data_Analysis-blue?style=for-the-badge)
 
 **Tech Skills:**
+
 ![Office](https://img.shields.io/badge/Tools-Microsoft_Office-red?style=for-the-badge)
 
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-red?style=for-the-badge)
