@@ -3,7 +3,7 @@
 
 **Student ID:** [HS25510455]
 
-![My Profile Photo](photo.jpg) 
+<img src="photo.jpg" alt="Profile Photo" width="200" style="border-radius: 50%;">
 
 ## About Me
 I am a dedicated undergraduate student currently pursuing a BSc (Hons) in Biotechnology. Driven by a curiosity for the molecular workings of life, I am focused on building a strong foundation in laboratory techniques and research methodologies.I am currently learning about core subjects in biotechnology such as microbiology, biochemistry and ecology. I am passionate about applying scientific knowledge to solve real-world problems and am eager to gain practical experience in the industry to further develop my professional skills
