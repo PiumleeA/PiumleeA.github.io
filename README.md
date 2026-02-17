@@ -20,6 +20,16 @@ I am a dedicated undergraduate student currently pursuing a BSc (Hons) in Biotec
 * [Nursery Assistant], [Ministeps nursery, UK] (2024)
 
 ## Skills
+**Lab Skills:**
+![Microscopy](https://img.shields.io/badge/Skill-Microscopy-green)
+![PCR](https://img.shields.io/badge/Skill-PCR-blue)
+![Data_Analysis](https://img.shields.io/badge/Skill-Data_Analysis-orange)
+
+**Tech Skills:**
+![Office](https://img.shields.io/badge/Tools-Microsoft_Office-red)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-black)
+
+## Skills
 * Laboratory Safety & Techniques
      -  Competent in fundamental lab procedures including aseptic techniques, microscopy, and            chemical handling. I am committed to maintaining high safety standards and precision in          experimental work
 * Digital Literacy & Data Analysis
