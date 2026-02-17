@@ -34,15 +34,6 @@ I am a dedicated undergraduate student currently pursuing a BSc (Hons) in Biotec
 
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-red?style=for-the-badge)
 
-## Skills
-* Laboratory Safety & Techniques
-     -  Competent in fundamental lab procedures including aseptic techniques, microscopy, and            chemical handling. I am committed to maintaining high safety standards and precision in          experimental work
-* Digital Literacy & Data Analysis
-     -  Proficient in Microsoft Office (Excel, Word, PowerPoint) for analyzing data and                  reporting results
-* Research & Collaboration
-     -  Strong ability to conduct literature reviews and verify scientific sources. I enjoy              working in teams to solve complex problems and communicate findings clearly
-
-
 ## Hobbies
 * I am a film and music enthusiast. I enjoy analyzing storytelling in movies and exploring         diverse musical genres. 
 * I enjoy traveling to new places to experience different cultures and environments.
