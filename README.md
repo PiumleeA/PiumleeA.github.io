@@ -31,4 +31,4 @@
 
 ## Contact & Resume
 * **Email:** [Your Email Address]
-* **Resume:** [Download my Resume](Resume.pdf)
+* **Resume:** [Download my Resume](resume.pdf)
