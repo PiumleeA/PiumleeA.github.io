@@ -21,13 +21,18 @@ I am a dedicated undergraduate student currently pursuing a BSc (Hons) in Biotec
   
 ## Skills
 **Lab Skills:**
-<img src="https://img.shields.io/badge/Skill-Microscopy-green" height="100" />
-<img src="https://img.shields.io/badge/Skill-PCR-blue" height="100" />
-<img src="https://img.shields.io/badge/Skill-Data_Analysis-orange" height="100" />
+
+<img src="https://img.shields.io/badge/Skill-Microscopy-green" height="50" />
+
+<img src="https://img.shields.io/badge/Skill-PCR-blue" height="50" />
+
+<img src="https://img.shields.io/badge/Skill-Data_Analysis-orange" height="50" />
 
 **Tech Skills:**
-<img src="https://img.shields.io/badge/Tools-Microsoft_Office-red" height="100" />
-<img src="https://img.shields.io/badge/Tools-GitHub-black" height="100" />
+
+<img src="https://img.shields.io/badge/Tools-Microsoft_Office-red" height="50" />
+
+<img src="https://img.shields.io/badge/Tools-GitHub-black" height="50" />
 
 ## Skills
 * Laboratory Safety & Techniques
